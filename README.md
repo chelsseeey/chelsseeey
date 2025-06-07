@@ -7,7 +7,7 @@
 <!-- ──────────────────────────────────────────────────────── -->
 Ewha Womans University | Computer Science & Engineering
 
-## Experiences
+### Experiences
 2025
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stargirl03)](https://solved.ac/stargirl03/)
