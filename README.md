@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ──────────────────────────────────────────────────────── -->
-- Ewha Womans University | Computer Science & Engineering 
+- Ewha Womans University | Computer Science & Engineering
+
+## Experiences
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stargirl03)](https://solved.ac/stargirl03/)
 
