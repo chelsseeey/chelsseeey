@@ -10,7 +10,7 @@ Ewha Womans University | Computer Science & Engineering, Electronic & Electrical
 ### Experiences
 2025
 - 19기 도전학기제 | 팀 AeroEwha (2025.05 -)
-- 제 23회 AAM Tech Challenge (한국로봇항공기 경연대회) (2025.03 -)
+- 제 23회 AAM Tech Challenge (2025.03 -)
 - EURON (2025.03 -)
 - Multiagent Communications and Networking Lab 학부생 인턴 (2025.01 - 2025.02)
 
