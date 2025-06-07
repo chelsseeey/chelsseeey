@@ -5,7 +5,7 @@
 
 -->
 <!-- ──────────────────────────────────────────────────────── -->
-Ewha Womans University | Computer Science & Engineering, Electronic & Electric Engineering
+Ewha Womans University | Computer Science & Engineering, Electronic & Electrical Engineering
 
 ### Experiences
 2025
