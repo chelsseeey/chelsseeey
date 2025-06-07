@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - Ewha Womans University | Computer Science & Engineering
 
 ## Experiences
+- 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stargirl03)](https://solved.ac/stargirl03/)
 
