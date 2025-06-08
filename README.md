@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=ʎǝǝǝssslǝɥɔ&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=ʎǝǝǝsslǝɥɔ&fontSize=60&fontColor=ffffff)
 
 
 <!--
