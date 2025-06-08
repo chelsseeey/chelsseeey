@@ -21,6 +21,8 @@ Ewha Womans University | Computer Science & Engineering, Electronic & Electrical
 - Lg Aimers 6기 (2024.12 - 2025.02)
 - EDOC (2024.03 - 2025.02)
 
+### Tech Stacks
 
+### Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stargirl03)](https://solved.ac/stargirl03/)
 
