@@ -8,7 +8,8 @@
 -->
 <!-- ──────────────────────────────────────────────────────── -->
 ### Education
-Ewha Womans University | Computer Science & Engineering, Electronic & Electrical Engineering
+Ewha Womans University 
+- Major | Computer Science & Engineering, Electronic & Electrical Engineering
 
 ### Experiences
 #### 2025
