@@ -12,7 +12,7 @@ Ewha Womans University | Computer Science & Engineering, Electronic & Electrical
 - 19기 도전학기제 | 팀 AeroEwha (2025.05 -)
 - 제 23회 AAM Tech Challenge (2025.03 -)
 - EURON (2025.03 -)
-- Multiagent Communications and Networking Lab 학부생 인턴 (2025.01 - 2025.02)
+- Multiagent Communications and Networking Lab 인턴 (2025.01 - 2025.02)
 
 2024
 - Lg Aimers 6기 (2024.12 - 2025.02)
