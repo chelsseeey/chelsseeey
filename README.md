@@ -7,6 +7,7 @@
 
 -->
 <!-- ──────────────────────────────────────────────────────── -->
+### Education
 Ewha Womans University | Computer Science & Engineering, Electronic & Electrical Engineering
 
 ### Experiences
