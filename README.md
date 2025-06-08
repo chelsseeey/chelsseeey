@@ -14,12 +14,12 @@ Ewha Womans University | Computer Science & Engineering, Electronic & Electrical
 #### 2025
 - 19기 도전학기제 | 팀 AeroEwha (2025.05 -)
 - 제 23회 AAM Tech Challenge (2025.03 -)
-- EURON (2025.03 -)
+- EURON (이화여대 인공지능대학 AI·데이터분석 학회) (2025.03 -)
 - Multiagent Communications and Networking Lab 인턴 (2025.01 - 2025.02)
 
 #### 2024
 - Lg Aimers 6기 (2024.12 - 2025.02)
-- EDOC (2024.03 - 2025.02)
+- EDOC (이화여대 인공지능대학 알고리즘 학회) (2024.03 - 2025.02)
 
 ### Tech Stacks
 
