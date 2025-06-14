@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=ʎǝǝǝssןǝɥɔ&fontSize=60&fontColor=282829)
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inria+Sans&size=60&pause=10000&color=282829&center=true&vCenter=true&width=800&height=200&lines=%CA%8E%C7%9D%C7%9D%C7%9Dss%D7%9F%C7%9D%C9%A5%C9%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inria+Sans&size=60&pause=5000&color=282829&center=true&vCenter=true&width=800&height=200&lines=%CA%8E%C7%9D%C7%9D%C7%9Dss%D7%9F%C7%9D%C9%A5%C9%94)](https://git.io/typing-svg)
 <!--
 **chelsseeey/chelsseeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
