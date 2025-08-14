@@ -16,7 +16,7 @@ Ewha Womans University
 
 ### Experiences
 #### 2025
-- OSSCA | HuggingFace OSS 멘티
+- OSSCA | Hugging Face OSS 멘티
 - 19기 도전학기제 | 팀 AeroEwha (2025.05 -)
 - 제 23회 AAM Tech Challenge (2025.03 - 2025.07)
 - EURON (이화여대 인공지능대학 AI·데이터분석 학회) (2025.03 -)
