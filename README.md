@@ -23,7 +23,7 @@ Ewha Womans University
 - Multiagent Communications and Networking Lab 인턴 (2025.01 - 2025.02)
 
 #### 2024
-- Lg Aimers 6기 (2024.12 - 2025.02)
+- LG Aimers 6기 (2024.12 - 2025.02)
 - EDOC (이화여대 인공지능대학 알고리즘 학회) (2024.03 - 2025.02)
 - 2024 Winter SUAPC (2024.02)
 
