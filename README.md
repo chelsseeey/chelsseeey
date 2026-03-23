@@ -15,6 +15,9 @@ Ewha Womans University
 - Major | Computer Science & Engineering, Electronic & Electrical Engineering
 
 ### Experiences
+#### 2026
+- AWS Cloud Clubs at EWHA (2026.03 - )
+
 #### 2025
 - GDGoC EWHA (2025.09 - )
 - OSSCA | Hugging Face OSS 멘티 (2025.07 - 2025.11)
