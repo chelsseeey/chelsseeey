@@ -16,7 +16,7 @@ Ewha Womans University
 
 ### Experiences
 #### 2026
-- H Mobility Class (2026.04 - )
+- H Mobility Class (Autonomous Driving Track) (2026.04 - )
 - AWS Cloud Clubs at EWHA (2026.03 - )
 
 #### 2025
