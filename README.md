@@ -18,7 +18,7 @@ Ewha Womans University
 #### 2026
 - H Mobility Class (Autonomous Driving Track) (2026.04 - )
 - Hanium (2026.03 - )
-- AWS Cloud Clubs at EWHA (2026.03 - )
+- AWS Cloud Clubs at EWHA (2026.03 - 2026.08)
 
 #### 2025
 - GDGoC EWHA (2025.09 - )
