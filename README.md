@@ -21,7 +21,7 @@ Ewha Womans University
 - AWS Cloud Clubs at EWHA (2026.03 - 2026.08)
 
 #### 2025
-- GDGoC EWHA (2025.09 - )
+- GDGoC EWHA (2025.09 - 2026.08)
 - OSSCA | Hugging Face OSS 멘티 (2025.07 - 2025.11)
 - 19기 도전학기제 | 팀 AeroEwha (2025.05 - 2025.12)
 - 제 23회 AAM Tech Challenge (2025.03 - 2025.07)
