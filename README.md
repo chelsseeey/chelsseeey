@@ -16,7 +16,7 @@ Ewha Womans University
 
 ### Experiences
 #### 2026
-- Hyundai H-Mobility Class (Autonomous Driving Track) (2026.04 - 2026.09)
+- Hyundai Motor Group | H-Mobility Class (Autonomous Driving Track) (2026.04 - 2026.09)
 - Hanium (2026.03 - )
 - AWS Cloud Clubs at EWHA (2026.03 - 2026.08)
 
