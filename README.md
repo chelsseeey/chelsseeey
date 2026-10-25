@@ -16,8 +16,9 @@ Ewha Womans University
 
 ### Experiences
 #### 2026
+- OSSCA | Apache Zeppelin 멘티 (2026.07 - 2026.11)
 - Hyundai Motor Group | H-Mobility Class (Autonomous Driving Track) (2026.04 - 2026.09)
-- Hanium (2026.03 - )
+- Hanium (2026.03 - 2026.11)
 - AWS Cloud Clubs at EWHA (2026.03 - 2026.08)
 
 #### 2025
